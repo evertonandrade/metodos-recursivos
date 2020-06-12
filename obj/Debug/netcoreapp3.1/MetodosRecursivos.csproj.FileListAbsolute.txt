@@ -1,0 +1,13 @@
+/home/evertonfa7/RiderProjects/MetodosRecursivos/MetodosRecursivos/bin/Debug/netcoreapp3.1/MetodosRecursivos
+/home/evertonfa7/RiderProjects/MetodosRecursivos/MetodosRecursivos/bin/Debug/netcoreapp3.1/MetodosRecursivos.deps.json
+/home/evertonfa7/RiderProjects/MetodosRecursivos/MetodosRecursivos/bin/Debug/netcoreapp3.1/MetodosRecursivos.runtimeconfig.json
+/home/evertonfa7/RiderProjects/MetodosRecursivos/MetodosRecursivos/bin/Debug/netcoreapp3.1/MetodosRecursivos.runtimeconfig.dev.json
+/home/evertonfa7/RiderProjects/MetodosRecursivos/MetodosRecursivos/bin/Debug/netcoreapp3.1/MetodosRecursivos.dll
+/home/evertonfa7/RiderProjects/MetodosRecursivos/MetodosRecursivos/bin/Debug/netcoreapp3.1/MetodosRecursivos.pdb
+/home/evertonfa7/RiderProjects/MetodosRecursivos/MetodosRecursivos/obj/Debug/netcoreapp3.1/MetodosRecursivos.csprojAssemblyReference.cache
+/home/evertonfa7/RiderProjects/MetodosRecursivos/MetodosRecursivos/obj/Debug/netcoreapp3.1/MetodosRecursivos.csproj.CoreCompileInputs.cache
+/home/evertonfa7/RiderProjects/MetodosRecursivos/MetodosRecursivos/obj/Debug/netcoreapp3.1/MetodosRecursivos.AssemblyInfoInputs.cache
+/home/evertonfa7/RiderProjects/MetodosRecursivos/MetodosRecursivos/obj/Debug/netcoreapp3.1/MetodosRecursivos.AssemblyInfo.cs
+/home/evertonfa7/RiderProjects/MetodosRecursivos/MetodosRecursivos/obj/Debug/netcoreapp3.1/MetodosRecursivos.dll
+/home/evertonfa7/RiderProjects/MetodosRecursivos/MetodosRecursivos/obj/Debug/netcoreapp3.1/MetodosRecursivos.pdb
+/home/evertonfa7/RiderProjects/MetodosRecursivos/MetodosRecursivos/obj/Debug/netcoreapp3.1/MetodosRecursivos.genruntimeconfig.cache
